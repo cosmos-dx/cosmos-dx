@@ -85,7 +85,7 @@ Something Big Coming !!!
 
 <div align="center">
 
-![VisitorCount](https://profile-counter.glitch.me/{anmolpant}/count.svg)
+![VisitorCount](https://komarev.com/ghpvc/?username=cosmos-dx&label=LESS+I+KNOW)
 
 </div>
 
