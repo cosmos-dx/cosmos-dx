@@ -93,7 +93,7 @@ Something Big Coming !!!
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const abhishek = {
     pronouns: "Bro" | "Bruh",
     code: ["Javascript", "HTML", "Python", "Java", "C++"],
     askMeAbout: ["Web Dev", "Tech", "Machine learning", "Software Development", "TV Shows", "Content Writing", "Memes"],
