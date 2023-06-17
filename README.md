@@ -1,4 +1,4 @@
-<h2>Hey, Hallo, नमस्ते 🙏🏻, I'm Anmol Pant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h2>Hey, I'm Abhishek Gupta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="230"> 
 <br/>
 <div align = 'left'>
 <a href="https://twitter.com/nastikbrahmin">
