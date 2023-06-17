@@ -20,7 +20,7 @@
   <img align="left" alt="anmolpant's Spotify" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/spotify.png" />
 </a>
 <a href="https://leetcode.com/anmolpant/">
-  <img align="left" alt="anmolpant's Leetcode" width="30px" src="[https://github.com/anmolpant/anmolpant/blob/master/assets/programming-code-signs.png](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)" />
+  <img align="left" alt="anmolpant's Leetcode" width="30px" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 </a>
 <a href="https://github.com/anmolpant/anmolpant/blob/master/assets/Anmol's%20Resume.pdf">
   <img align="left" alt="Download Resume" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/curriculum-vitae-resume-svgrepo-com.svg" />
