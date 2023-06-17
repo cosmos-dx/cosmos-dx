@@ -118,10 +118,10 @@ const abhishek = {
 Please do consider dropping a ⭐ for this repo and some of my recent Repos. 🥺
 
 <p align="center">
-  <a href="https://github.com/anmolpant/Detecting-COVID-19-from-X-Ray">
+  <a href="https://github.com/cosmos-dx/ALone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmos-dx&repo=ALone" />
   </a>
-  <a href="https://github.com/anmolpant/ULMFiT-Sentiment">
+  <a href="https://github.com/cosmos-dx/codetantra">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmos-dx&repo=codetantra" />
   </a>
 
