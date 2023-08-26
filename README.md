@@ -119,7 +119,7 @@ Please do consider dropping a â­ for this repo and some of my recent Repos. ğŸ¥
 
 <p align="center">
   <a href="https://github.com/cosmos-dx/ALone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmos-dx&repo=ALone" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmos-dx&repo=MediTrade" />
   </a>
   <a href="https://github.com/cosmos-dx/codetantra">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmos-dx&repo=codetantra" />
