@@ -17,8 +17,9 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
  <br /> <br />
-
-Computer Science and Engineering Student at <a href="https://aktu.ac.in/">Dr. APJ Abdul Kalam University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+MTech : Computer Science and Engineering (Artificial Intelligence) at  <a href="http://nsut.ac.in/en/home/">Netaji Shubhas University of Technology.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+ 
+BTech : Computer Science and Engineering Student <a href="https://aktu.ac.in/">Dr. APJ Abdul Kalam University</a>
 
 Something Big Coming !!!
 </em></p>
